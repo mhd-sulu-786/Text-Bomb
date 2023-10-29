@@ -9,7 +9,7 @@ A simple text-based bombing game for educational purposes.
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 - [License](#license)
-- [License](#run-now)
+- [Run Now](#run-now)
 ## Description
 
 The "Text Bombing Game" is a basic text-based game that allows you to simulate a bombing effect on the enemy's text. It is intended for educational purposes and to learn about basic programming concepts.
