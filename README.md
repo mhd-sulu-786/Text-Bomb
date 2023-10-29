@@ -1,4 +1,50 @@
-# -Text-Bombing-Game-A-simple-text-based-bombing-game-for-educational-purposes.
 # Text Bombing Game
 
 A simple text-based bombing game for educational purposes.
+
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+The "Text Bombing Game" is a basic text-based game that allows you to simulate a bombing effect on the enemy's text. It is intended for educational purposes and to learn about basic programming concepts.
+
+## Features
+
+- Choose the enemy's name and text to simulate the bombing.
+- Select the bomb text level: Low, Medium, High, or Extra-High.
+- Simulate a bombing effect with text.
+
+## How to Play
+
+1. Run the game by executing the script.
+2. Enter your enemy's name when prompted.
+3. Enter the text you want to use against your enemy.
+4. Choose the bomb text level (1 for Low, 2 for Medium, 3 for High, or 4 for Extra-High).
+5. The game will start, and you'll see the bombing effect.
+
+## Contributing
+
+Contributions are welcome! If you want to improve this project, you can:
+
+- Report issues or suggest new features by opening an issue on the [GitHub repository](https://github.com/mhd-sulu-786/-Text-Bombing-Game-A-simple-text-based-bombing-game-for-educational-purposes..git).
+- Contribute to the codebase by submitting pull requests.
+
+## License
+
+This project is available under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+**Disclaimer**: This project is created for educational purposes only. Please use it responsibly and avoid using offensive or inappropriate language.
+## Run now
+(install node )
+1.git clone https://github.com/mhd-sulu-786/-Text-Bombing-Game-A-simple-text-based-bombing-game-for-educational-purposes..git
+2.cd texrmux-bomb
+3.node 
+4.node BOMBER 
