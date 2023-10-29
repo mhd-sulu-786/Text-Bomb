@@ -32,7 +32,7 @@ The "Text Bombing Game" is a basic text-based game that allows you to simulate a
 
 Contributions are welcome! If you want to improve this project, you can:
 
-- Report issues or suggest new features by opening an issue on the [GitHub repository](https://github.com/mhd-sulu-786/-Text-Bombing-Game-A-simple-text-based-bombing-game-for-educational-purposes..git).
+- Report issues or suggest new features by opening an issue on the [GitHub repository](https://github.com/mhd-sulu-786/Text-Bomb.git).
 - Contribute to the codebase by submitting pull requests.
 
 ## License
@@ -44,7 +44,6 @@ This project is available under the MIT License. See the [LICENSE](LICENSE) file
 **Disclaimer**: This project is created for educational purposes only. Please use it responsibly and avoid using offensive or inappropriate language.
 ## Run now
 (install node )
-1.git clone https://github.com/mhd-sulu-786/-Text-Bombing-Game-A-simple-text-based-bombing-game-for-educational-purposes..git
-2.cd texrmux-bomb
-3.node 
-4.node BOMBER 
+1.git clone https://github.com/mhd-sulu-786/Text-Bomb.git
+2.cd Text-Bomb
+3.node BOMBER 
